@@ -27,7 +27,7 @@ def check_connection(ip):
 
 # --------------------------------------------------------
 # Insira sua chave de API do Shodan
-API_KEY = "15hlnqlCHZTxvko4O5mJKM51AhyOLCSZ"
+API_KEY = ""
 def search_targets():
     # Cria uma instância da classe API do Shodan
     api = shodan.Shodan(API_KEY)
