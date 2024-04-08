@@ -42,7 +42,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="#" title="defina o titulo do link">
+      <a href="https://www.linkedin.com/feed/" title="Linkedin">
         <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
           <b>Dhiego</b>
@@ -59,7 +59,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#" title="#">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
+        <img src="https://wallpapercave.com/wp/wp5936399.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
         <sub>
           <b>Murilo</b>
         </sub>
