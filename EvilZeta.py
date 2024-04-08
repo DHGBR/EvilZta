@@ -65,7 +65,7 @@ def check_connection(target):
 # Insira sua chave de API do Shodan
 # Alvo teste
 # 138.204.63.130
-API_KEY = "15hlnqlCHZTxvko4O5mJKM51AhyOLCSZ"
+API_KEY = ""
 
 def search_targets():
     date = datetime.datetime.now()
