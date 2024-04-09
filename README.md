@@ -10,7 +10,8 @@ Explora vulnerabilidade em dispositivos Android com depuração WiFi ativada, pe
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Python 3*
-- Adb Fastboot 
+- Adb Fastboot
+- Api key Shodan
 
 
 ## ☕ Usando EvilZta
