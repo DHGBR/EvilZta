@@ -23,7 +23,7 @@ Linux e macOS:
 pip install -r requirements.txt
 python3 EvilZeta.py
 ```
-
+Para instalar o ADB e Fastboot no Ubuntu e derivados
 Passo 1. Abra um terminal;
 Passo 2. Atualize o gerenciador de pacotes com o comando:
 ```
@@ -52,7 +52,7 @@ Passo 1. Baixe o adb installer ;
 ```
 https://www.mediafire.com/file/l7m1p6otz92hea9/ADB_Installer_v1.5.6.exe/file
 ```
-Passo 2. instaler o adb em sua maquina windows;
+Passo 2. Instaler o adb em sua maquina windows;
 
 Passo 3. Para verificar a versão ADB, execute o comando;
 ```
