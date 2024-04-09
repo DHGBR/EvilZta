@@ -49,7 +49,7 @@ Windows:
 pip install -r requirements.txt
 python3 EvilZeta.py
 ```
-Para instalar o ADB Windows
+Para instalar o ADB no Windows
 
 Passo 1. Baixe o adb installer ;
 ```
