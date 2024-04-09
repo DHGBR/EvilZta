@@ -10,7 +10,7 @@ Explora vulnerabilidade em dispositivos Android com depuração WiFi ativada, pe
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Python 3*
-- Adb server 
+- Adb Fastboot 
 
 
 ## ☕ Usando EvilZta
