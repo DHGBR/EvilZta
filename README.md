@@ -50,6 +50,7 @@ pip install -r requirements.txt
 python3 EvilZeta.py
 ```
 Para instalar o ADB Windows
+
 Passo 1. Baixe o adb installer ;
 ```
 https://www.mediafire.com/file/l7m1p6otz92hea9/ADB_Installer_v1.5.6.exe/file
