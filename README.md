@@ -26,6 +26,7 @@ python3 EvilZeta.py
 Para instalar o ADB Ubuntu e derivados:
 
 Passo 1. Abra um terminal;
+
 Passo 2. Atualize o gerenciador de pacotes com o comando:
 ```
 sudo apt-get update
