@@ -1,3 +1,4 @@
 coloredlogs
 colorama
+colorlog
 shodan

@@ -10,6 +10,7 @@ Explora vulnerabilidade em dispositivos Android com depuração WiFi ativada, pe
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Python 3*
+- Adb server 
 
 
 ## ☕ Usando EvilZta
@@ -23,11 +24,39 @@ pip install -r requirements.txt
 python3 EvilZeta.py
 ```
 
+Passo 1. Abra um terminal;
+Passo 2. Atualize o gerenciador de pacotes com o comando:
+```
+sudo apt-get update
+```
+
+Passo 3. Agora use o comando abaixo para instalar o programa;
+```
+sudo apt install android-tools-adb android-tools-fastboot
+```
+
+Passo 4. Para verificar a versão ADB, execute o comando;
+```
+adb version
+
+```
+
 Windows:
 
 ```
 pip install -r requirements.txt
 python3 EvilZeta.py
+```
+adb installer
+Passo 1. Baixe o adb installer ;
+```
+https://www.mediafire.com/file/l7m1p6otz92hea9/ADB_Installer_v1.5.6.exe/file
+```
+Passo 2. instaler o adb em sua maquina windows;
+
+Passo 3. Para verificar a versão ADB, execute o comando;
+```
+adb version
 ```
 
 

@@ -1,4 +1,3 @@
-import threading
 import shodan
 import coloredlogs, logging
 from colorama import just_fix_windows_console
@@ -64,7 +63,7 @@ def check_connection(target):
 # --------------------------------------------------------
 # Insira sua chave de API do Shodan
 # Alvo teste
-# 138.204.63.130
+# 138.204.63.130e foda 
 API_KEY = ""
 
 def search_targets():
